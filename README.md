@@ -19,6 +19,6 @@ Technologies Used
         Other Tools: [Axios, react-router-dom, etc... ]
 
 Setup Instructions: - 
-       Clone the Repository: git clone <repository_URL>
+       Clone the Repository: git clone [<repository_URL>](https://github.com/vikram8376/IPL-Cricket-League.git)
        Install Dependencies: npm install
        Run the Application: npm start 
