@@ -1,0 +1,78 @@
+.Mumbainavbarplayer{
+    height: 130px;
+    background-color:rgb(4, 68, 163);
+   
+
+}
+
+.backbutton{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(5, 75, 141);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+table td{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(217, 205, 228);
+    text-align: center;
+    color: rgb(15, 1, 1);
+}
+
+.MumbaiEdit{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(69, 69, 185);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.MumbaiDelete{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(252, 17, 36);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+.Mumbaiplayersbuttons{
+    display: flex;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.Mumbaiaddform{
+    margin-bottom: 50px;
+}
+
+.Mumbaiaddform input{
+    width: 200px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.Mumbaiaddbutton{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(47, 209, 7);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.Mumbailogoimg{
+    height: 130px;
+}

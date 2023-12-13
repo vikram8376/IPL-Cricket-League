@@ -1,0 +1,43 @@
+.Rajform {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    align-items: center;
+   
+}
+
+.Rajform input{
+    width: 500px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.Rajformstyle{
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    background-color: rgb(230, 53, 165);
+    padding: 20px;
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+   
+}
+
+.Rajaddplayer{
+    width: 500px;
+    padding: 10px;
+    background-color: rgb(47, 209, 7);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+
+

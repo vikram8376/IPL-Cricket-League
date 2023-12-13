@@ -1,0 +1,155 @@
+.Delhinav{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(11, 89, 178);
+    display: flex;
+}
+
+.Delhinav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 4%;
+    margin-left: 350px;
+}
+
+
+.Delhinav li {
+    display: inline-block;
+    list-style: none;
+}
+
+.Delhinav li a {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+
+li a:hover {
+    color: orange;
+  }
+
+h1 {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(221, 232, 13, 0.8), 0 0 20px rgba(214, 16, 16, 0.8), 0 0 30px rgba(12, 228, 102, 0.8), 0 0 40px rgba(25, 6, 120, 0.8), 0 0 70px rgba(224, 8, 12, 0.8), 0 0 80px rgba(255,255,255,0.8), 0 0 100px rgba(255,255,255,0.8);
+    background: linear-gradient(to bottom, #92e06a, #888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+.Delhifleximg{
+    display: flex;
+}
+
+.Delhibackgroundimg{
+    width: 100%;
+    height: 100%;
+}
+
+
+.Delhistduimtitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+.Delhifirstipl{
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+
+
+.Delhiimageconatiner{
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.firstwinner{
+    display: flex;
+    gap: 35px;
+}
+
+.Delhiimgname{
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+.Delhimail{
+    width: 100%;
+    margin-top: 50px;
+    align-items: center;
+    background-color: rgb(11, 89, 178);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.Delhispon{
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.Delhisponsored{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+
+.DelhisponsorTitle{
+    margin-top: 30px;
+}
+
+.DelhimailDescription{
+    margin-bottom: 10px;
+}
+
+
+
+.Delhiulitems{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+}
+
+.Delhiulitems :hover{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+ a{
+    text-decoration: none;
+    
+}
+
+
+
+.Delhicontents{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(187, 187, 6);
+    
+}
+
+

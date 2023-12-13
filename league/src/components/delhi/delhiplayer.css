@@ -1,0 +1,57 @@
+.Delhinavbarplayer{
+    height: 130px;
+    background-color:rgb(11, 89, 178);
+
+}
+
+
+table td{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(217, 205, 228);
+    text-align: center;
+    color: rgb(15, 1, 1);
+}
+
+.DelhiEdit{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(69, 69, 185);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.DelhiDelete{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(252, 17, 36);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+.Delhiplayersbuttons{
+    display: flex;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+
+.Delhiaddbutton{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(47, 209, 7);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+.Delhilogoimg{
+    height: 130px;
+}

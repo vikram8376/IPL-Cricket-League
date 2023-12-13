@@ -1,0 +1,57 @@
+.Lucknavbarplayer{
+    height: 130px;
+    background-color:rgb(4, 88, 148);
+
+}
+
+
+table td{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(217, 205, 228);
+    text-align: center;
+    color: rgb(15, 1, 1);
+}
+
+.LuckEdit{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(69, 69, 185);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.LuckDelete{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(252, 17, 36);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+
+
+.Luckplayersbuttons{
+    display: flex;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+
+
+.Luckaddbutton{
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(47, 209, 7);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.Lucklogoimg{
+    height: 130px;
+}

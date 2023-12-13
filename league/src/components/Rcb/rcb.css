@@ -1,0 +1,165 @@
+.Rcbnav{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(219, 11, 11);
+    display: flex; 
+}
+
+.Rcblogoimg{
+    height: 130px;
+}
+
+
+.Rcbnav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 4%;
+    margin-left: 350px;
+}
+
+.Rcbnav li {
+    display: inline-block;
+    list-style: none;
+}
+
+.Rcbnav li a {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+
+li a:hover {
+    color: orange;
+  }
+
+
+
+h1 {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(221, 232, 13, 0.8), 0 0 20px rgba(214, 16, 16, 0.8), 0 0 30px rgba(12, 228, 102, 0.8), 0 0 40px rgba(25, 6, 120, 0.8), 0 0 70px rgba(224, 8, 12, 0.8), 0 0 80px rgba(255,255,255,0.8), 0 0 100px rgba(255,255,255,0.8);
+    background: linear-gradient(to bottom, #92e06a, #888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
+.Rcbfleximg{
+    display: flex;
+}
+
+.Rcbbackgroundimg{
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+     
+}
+
+
+.Studiumtitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+.Rcbfirstipl{
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+
+
+.Rcbimageconatiner{
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.Rcbfirstwinner{
+    display: flex;
+    gap: 35px;
+}
+
+.Rcbimgname{
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+.Rcbmail{
+    width: 100%;
+    margin-top: 50px;
+    align-items: center;
+    background-color: rgb(219, 11, 11);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.Rcbspon{
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.Rcbsponsored{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+
+.Rcbmaillistemtitle{
+    margin-top: 30px;
+}
+
+.RcbmailDescription{
+    margin-bottom: 10px;
+}
+
+
+
+.Rcbulitems{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+}
+
+.Rcbulitems :hover{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+a{
+    text-decoration: none;
+    
+}
+
+
+
+.Rcbcontents{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(187, 187, 6);
+    
+}
+
+

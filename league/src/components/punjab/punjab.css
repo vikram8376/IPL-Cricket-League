@@ -1,0 +1,161 @@
+.Punjabnav{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(203, 14, 14);
+    display: flex;
+}
+
+.Punjabnav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 4%;
+    margin-left: 350px;
+}
+
+.Punjabnav li {
+    display: inline-block;
+    list-style: none;
+}
+
+.Punjabnav li a {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+
+li a:hover {
+    color: orange;
+  }
+
+  .Punjablogoimg{
+    height: 130px;
+  }
+
+
+h1 {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(221, 232, 13, 0.8), 0 0 20px rgba(214, 16, 16, 0.8), 0 0 30px rgba(12, 228, 102, 0.8), 0 0 40px rgba(25, 6, 120, 0.8), 0 0 70px rgba(224, 8, 12, 0.8), 0 0 80px rgba(255,255,255,0.8), 0 0 100px rgba(255,255,255,0.8);
+    background: linear-gradient(to bottom, #92e06a, #888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+.Punjabfleximg{
+    display: flex;
+}
+
+.Punjabbackgroundimg{
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.Punjabtitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+.Punjabfirstipl{
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+
+
+.Punjabimageconatiner{
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.Punjabfirstwinner{
+    display: flex;
+    gap: 35px;
+}
+
+.Punjabimgname{
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+.Punjabmail{
+    width: 100%;
+    margin-top: 50px;
+    align-items: center;
+    background-color: rgb(203, 14, 14);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.punjabspon{
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.Punjabsponsored{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+
+.Punjabmailltitle{
+    margin-top: 30px;
+}
+
+.PunjabmailDescription{
+    margin-bottom: 10px;
+}
+
+
+
+.Punjabulitems{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+}
+
+.Punjabulitems :hover{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+ a{
+    text-decoration: none;
+    
+}
+
+
+
+.Punjabcontents{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(187, 187, 6);
+    
+}
+
+

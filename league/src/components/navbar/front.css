@@ -1,0 +1,163 @@
+.navbar {
+    height: 130px;
+    background-color: rgb(6, 28, 114);
+
+
+}
+
+.maintitle {
+    text-align: center;
+    color: #0a2dbb;
+    font-size: 60px;
+    font-style: italic;
+}
+
+.navbarcontainer {
+    color: white;
+    max-width: 1024px;
+    display: flex;
+
+}
+
+.choicepoll {
+    margin-left: 60px;
+}
+
+.poll {
+    margin-left: 750px;
+}
+
+.trophyimage {
+    height: 130px;
+    width: 300px;
+}
+
+
+
+.backgroundimage {
+    position: relative;
+
+}
+
+.overplay {
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    color: #1038db;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #cd6210, 0 0 100px #ff00de, 0 0 150px #ff00de;
+
+}
+
+.heading {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 200px;
+    text-shadow: none;
+    font-weight: 500;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.teamsbutton {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #03356e;
+    color: white;
+    padding: 12px 24px;
+    width: 200px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.teamsbutton :hover {
+    background-color: green;
+}
+
+
+
+.conatinerimg {
+    overflow: hidden;
+    background-color: black;
+}
+
+.image {
+    float: left;
+    width: 50%;
+    margin-top: 80px;
+}
+
+.content {
+    float: right;
+    width: 50%;
+    color: white;
+    margin-top: 150px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.applogo {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+    gap: 40px;
+    cursor: pointer;
+}
+
+.tatalogo {
+    width: 130px;
+    height: 130px;
+    margin-left: 600px;
+}
+
+.sponsorship {
+    display: flex;
+    gap: 60px;
+    margin-top: 40px;
+    justify-content: center;
+
+}
+
+.sponsorclass {
+    width: 200px;
+    height: 50px;
+}
+
+.titlesponsor {
+    color: white;
+    text-align: center;
+}
+
+
+.sponsorconatiner {
+    background-color: black;
+}
+
+.titlelive {
+    color: white;
+    text-align: center;
+}
+
+
+
+.livesponsor {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-bottom: 30px;
+}

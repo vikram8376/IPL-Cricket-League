@@ -1,0 +1,161 @@
+
+.Lucknav{
+    width: 100%;
+    height: 130px;
+    background-color:rgb(4, 88, 148);
+    display: flex; 
+}
+
+
+.Lucknav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 4%;
+    margin-left: 350px;
+}
+
+.Lucknav li{
+    display: inline-block;
+    list-style: none;
+}
+
+.Lucknav li a {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0px 15px;
+}
+
+li a:hover {
+    color: orange;
+  }
+
+  .Lucklogoimg{
+    height: 130px;
+  }
+
+
+
+h1 {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(221, 232, 13, 0.8), 0 0 20px rgba(214, 16, 16, 0.8), 0 0 30px rgba(12, 228, 102, 0.8), 0 0 40px rgba(25, 6, 120, 0.8), 0 0 70px rgba(224, 8, 12, 0.8), 0 0 80px rgba(255,255,255,0.8), 0 0 100px rgba(255,255,255,0.8);
+    background: linear-gradient(to bottom, #92e06a, #888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+.Luckfleximg{
+    display: flex;
+}
+
+.Luckbackgroundimg{
+    width: 100vw;
+}
+
+
+.Lucktitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+.Luckfirstipl{
+    width: 300px;
+    height: 250px;
+    border-radius: 30px;
+    cursor: pointer;
+    
+}
+
+
+.Luckimageconatiner{
+    margin-top: 50px;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.Luckfirstwinner{
+    display: flex;
+    gap: 35px;
+}
+
+.Luckimgname{
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+.Luckmail{
+    width: 100%;
+    margin-top: 50px;
+    align-items: center;
+    background-color: rgb(4, 88, 148);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.Luckspon{
+    width: 130px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.Lucksponsored{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+
+.Luckmailtitle{
+    margin-top: 30px;
+}
+
+.LuckmailDescription{
+    margin-bottom: 10px;
+}
+
+
+
+.Luckulitems{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+}
+
+.Luckulitems :hover{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+ a{
+    text-decoration: none;
+    
+}
+
+
+
+.Luckcontents{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(187, 187, 6);
+    
+}
+
+

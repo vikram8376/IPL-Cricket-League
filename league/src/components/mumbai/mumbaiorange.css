@@ -1,0 +1,28 @@
+.Mumbaiorangetitle{
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+
+.Mumbaiorangeflex{
+    display: flex;
+    margin-top: 30px;
+   
+}
+
+.Mumorangeconatiner{
+    margin-left: 45px;
+    margin-top: 10px;
+    margin-right: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(236, 73, 4);
+    color: white;
+   
+}
+
+.Mumbaiorange1{
+    width: 300px;
+    height: 250px;
+}

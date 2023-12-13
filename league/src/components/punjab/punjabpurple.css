@@ -1,0 +1,25 @@
+
+
+.Punjabpurpleflex{
+    display: flex;
+    margin-top: 30px;
+   
+}
+
+
+.Punjabpurpleconatiner{
+    margin-left: 45px;
+    margin-top: 10px;
+    margin-right: 30px;
+    border: 1px solid yellow;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(138, 73, 181);
+    color: white;
+   
+}
+
+.Punjabpurple1{
+    width: 300px;
+    height: 250px;
+}

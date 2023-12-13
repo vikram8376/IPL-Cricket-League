@@ -1,0 +1,25 @@
+
+
+.Punjaborangeflex{
+    display: flex;
+    margin-top: 30px;
+    
+   
+}
+
+.Punjaborangeconatiner{
+    margin-left: 45px;
+    margin-top: 10px;
+    margin-right: 30px;
+    border: 1px solid rgb(230, 77, 6);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(236, 73, 4);
+    color: white;
+   
+}
+
+.Punjaborange1{
+    width: 300px;
+    height: 250px;
+}

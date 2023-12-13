@@ -1,0 +1,34 @@
+.card{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 1px red solid;
+    align-content: center;
+    margin: 0 auto;
+
+}
+
+.card-header{
+    height: 30%;
+    background: rgb(205, 205, 18);
+    color: white;
+    text-align: center;
+}
+
+.card-header p {
+    font-size: 20px;
+}
+
+.viewContainer{
+    padding: 4px 16px;
+}
+
+.DelhiBack{
+    width: 60px;
+    padding: 10px;
+    background-color: rgb(76, 202, 30);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+}
